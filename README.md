@@ -1,7 +1,7 @@
 # ZoneXsec Grabber | Develop By Alexithema 1895
 
 <div align="center">
-  <img height="469" width="680" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png">
+  <img height="576" width="1024" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png">
 </div>
 
 </br>
