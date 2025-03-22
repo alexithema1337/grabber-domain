@@ -1,7 +1,7 @@
 # ZoneXsec Grabber | Develop By Alexithema 1895
 
 <div align="center">
-  <img height="269" width="480" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png">
+  <img height="469" width="680" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png">
 </div>
 
 </br>
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### Running the Tool
 To execute the script, run:
 ```bash
-python script.py
+python grab.py
 ```
 Follow the on-screen menu to select the desired source for grabbing domain lists.
 
