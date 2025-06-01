@@ -1,46 +1,45 @@
-# ZoneXsec Grabber | Develop By Alexithema 1895
+# 🎯 ZoneXsec Grabber | Developed by Alexithema 1895
 
 <div align="center">
-  <img height="487" width="1024" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png">
+  <img height="487" width="1024" alt="Preview" src="https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png">
 </div>
 
 </br>
-</br>
-</br>
 
-## 🔥 About
-ZoneXsec Grabber is a Python-based tool designed to scrape and collect domain lists from ZoneXsec. It provides multiple options for grabbing domains from various sources, including archives, on-hold pages, special listings, teams, and attackers/defacers.
-
-## 📜 Features
-- Grab domains from different ZoneXsec sources
-- Save results to a file
-- Customizable page range
-- Simple CLI interface with color output
-- Clean and structured menu with a banner
-
-## 🚀 Installation & Usage
-### Prerequisites
-Ensure you have Python installed and required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Tool
-To execute the script, run:
-```bash
-python grab.py
-```
-Follow the on-screen menu to select the desired source for grabbing domain lists.
-
-## ⚠️ Disclaimer
-This tool is strictly for educational and research purposes. The author does not take responsibility for any misuse of this tool.
-
-## 🙌 Credits
-Special thanks to:
-- **Nowme**
-- **Asmodeus 1895 Indonesia**
-
+![Python](https://img.shields.io/badge/Made%20with-Python-blue)
+![Educational](https://img.shields.io/badge/Purpose-Education%20Only-orange)
+![Status](https://img.shields.io/badge/Status-Stable-green)
+![License](https://img.shields.io/badge/License-Restricted-important)
 
 ---
-Enjoy and use responsibly! 🚀
 
+## 🔥 About
+
+**ZoneXsec Grabber** adalah alat berbasis Python yang dirancang untuk **mengambil dan mengumpulkan daftar domain dari ZoneXsec**.  
+Tool ini menyediakan berbagai opsi untuk grabbing domain dari berbagai sumber di ZoneXsec, seperti arsip, halaman on-hold, daftar spesial, tim defacer, dan per individu.
+
+---
+
+## 📜 Features
+
+- 📌 Grab domain dari berbagai sumber ZoneXsec:
+  - Archive
+  - On-hold pages
+  - Special list
+  - By team
+  - By attacker/defacer
+- 📌 Menyimpan hasil ke file otomatis
+- 📌 Custom page range
+- 📌 CLI interface dengan warna untuk kemudahan navigasi
+- 📌 Menu bersih, terstruktur, dan dilengkapi banner
+
+---
+
+## 🚀 Installation & Usage
+
+### 📦 Prasyarat
+
+Pastikan Python dan dependency sudah terinstal:
+
+```bash
+pip install -r requirements.txt
