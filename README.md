@@ -9,7 +9,7 @@
 
 ## 📸 Preview
 
-![ZoneXsec Grabber Preview](https://raw.githubusercontent.com/alexithema/grabber-domain/refs/heads/main/preview.png)
+![ZoneXsec Grabber Preview](https://raw.githubusercontent.com/alexithema1337/grabber-domain/refs/heads/main/preview.png)
 
 ---
 
