@@ -1,6 +1,6 @@
 # 🎯 ZoneXsec Grabber | Developed by Alexithema 1895
 
-[Prieview](https://raw.githubusercontent.com/alexithema/grabberdomain/refs/heads/main/preview.png)
+[Prieview](https://raw.githubusercontent.com/alexithema/grabber-domain/refs/heads/main/preview.png)
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Educational](https://img.shields.io/badge/Purpose-Education%20Only-orange)
